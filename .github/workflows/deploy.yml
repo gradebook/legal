@@ -1,0 +1,16 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy
+      run: |
+        curl -X POST -d {} $WEBHOOK
+      env:
+        WEBHOOK: ${{ secrets.COMMIT_WEBHOOK }}
