@@ -23,6 +23,6 @@ Vulnerabilities we are quite interested in include:
  - Remote Code Execution (RCE)
  - SQL Injection (SQLi)
 
-We will try to respond to your notice within 72 hours. From there, we will work with you to determine the severity of the vulnerability, and the steps required to resolve it. Please wait 90 days from the date of disclosure to publicly publish any information pertaining to the vulnerability.
+We will try to respond to your notice within 2 business days. From there, we will work with you to determine the severity of the vulnerability, and the steps required to resolve it. Please wait 90 days from the date of disclosure to publicly publish any information pertaining to the vulnerability.
 
 We hope we will never have to work with you 😉
