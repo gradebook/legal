@@ -10,7 +10,7 @@ Details are provided below, but in general they:
 
 ## Affiliation
 
-Gradebook is not affiliated with, endorsed, or funded by Texas A&M University or any other educational institution or government entity. As such, FERPA regulations do not apply to any data entered on this site. Additionally, by entering data into Gradebook, users agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool and should never be used as an official record of educational information.
+Gradebook is not affiliated with, endorsed, or funded by any educational institution or government entity. As such, FERPA regulations do not apply to any data entered on this site. Additionally, by entering data into Gradebook, users agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool and should never be used as an official record of educational information.
 
 ## Privacy
 
@@ -30,7 +30,9 @@ Permission is granted to use the services and functionality on Gradebook's websi
 
 - remove any copyright or other proprietary notations from the materials; or
 
-- transfer the materials to another person or "mirror" the materials on any other server.
+- transfer the materials to another person or "mirror" the materials on any other server;
+
+- attempt to overload (DDos), gain unauthorized access, or otherwise abuse the service.
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by Gradebook at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any proprietary materials in your possession regardless of format.
 
@@ -40,7 +42,7 @@ We have not reviewed all of the sites linked to us and we are not responsible fo
 
 ## Modifications
 
-We may revise these terms of service for at any time. These terms will be updated here and you may be notifed by email of updates to these terms. By using this website you are agreeing to be bound by the then current version of these terms of service.
+We may revise these terms of service at any time. These terms will be updated here and you may be notifed by email of major changes to these terms. By using this website you are agreeing to be bound by the then current version of these terms of service.
 
 ## Governing Law
 
