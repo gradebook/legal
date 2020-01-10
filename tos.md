@@ -18,7 +18,7 @@ As a user of Gradebook, you have the right to expect us to keep your information
 
 ## Risk
 
-Users assume all risk when using the tool to perform any calculations to analyze progress or speculate on future academic requirements. However, if errors are found, email <a href="mailto:aggiegradebook@gmail.com">aggiegradebook@gmail.com</a> with a description of the problem and we will act promptly to ensure that any bugs are rectified.
+Users assume all risk when using the tool to perform any calculations to analyze progress or speculate on future academic requirements. However, if errors are found, email <a href="mailto:contact@gradebook.app">contact@gradebook.app</a> with a description of the problem and we will act promptly to ensure that any bugs are rectified.
 
 ## Use License
 
