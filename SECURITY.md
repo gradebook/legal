@@ -6,7 +6,7 @@ If you feel this page does not include enough documentation, please <!--[create 
 
 ## Reporting a vulnerability
 
-If you find a security vulnerability in any of our products, we encourage you to report it. We follow the general guidelines for responsible disclosure. You can shoot us an email, aggiegradebook@gmail.com, but we prefer using Keybase, an encrypted communication service. You can find us [@gradebook](https://keybase.io/gradebook) and either use the PGP key listed there to encrypt your message, or use Keybase chat.
+If you find a security vulnerability in any of our products, we encourage you to report it. We follow the general guidelines for responsible disclosure. You can shoot us an email, contact@gradebook.app, but we prefer using Keybase, an encrypted communication service. You can find us [@gradebook](https://keybase.io/gradebook) and either use the PGP key listed there to encrypt your message, or use Keybase chat.
 
 In your communication, please include details including:
  - Proof of concept
