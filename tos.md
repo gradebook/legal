@@ -36,6 +36,20 @@ Permission is granted to use the services and functionality on Gradebook's websi
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by Gradebook at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any proprietary materials in your possession regardless of format.
 
+## Termination of Services
+
+Gradebook reserves the right to terminate your account under certain conditions, including but not limited to:
+
+ - Account inactivity
+ 
+ - Abuse
+ 
+ - Requesting account deletion through the Account page of the Application
+ 
+ - Requesting account deletion via email
+ 
+Most of the time, you will be able to create a new account with the same email address. We reserve the right to blacklist your account if deemed necessary. Blacklisted users should not attempt to bypass restrictions by using an alternative email address.
+
 ## Links
 
 We have not reviewed all of the sites linked to us and we are not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Gradebook of the site. Use of any such linked website is at your own risk!
