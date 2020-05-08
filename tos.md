@@ -40,7 +40,7 @@ This license shall automatically terminate if you violate any of these restricti
 
 Gradebook reserves the right to terminate your account under certain conditions, including but not limited to:
 
- - Account inactivity
+ - Account inactivity (though you will be given reasonable notice)
  
  - Abuse
  
