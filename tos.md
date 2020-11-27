@@ -32,7 +32,7 @@ Permission is granted to use the services and functionality on Gradebook's websi
 
 - transfer the materials to another person or "mirror" the materials on any other server;
 
-- attempt to overload (DDos), gain unauthorized access, or otherwise abuse the service.
+- attempt to overload (DDoS), gain unauthorized access, or otherwise abuse the service.
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by Gradebook at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any proprietary materials in your possession regardless of format.
 
@@ -41,13 +41,13 @@ This license shall automatically terminate if you violate any of these restricti
 Gradebook reserves the right to terminate your account under certain conditions, including but not limited to:
 
  - Account inactivity (though you will be given reasonable notice)
- 
+
  - Abuse
- 
+
  - Requesting account deletion through the Account page of the Application
- 
+
  - Requesting account deletion via email
- 
+
 Most of the time, you will be able to create a new account with the same email address. We reserve the right to blacklist your account if deemed necessary. Blacklisted users should not attempt to bypass restrictions by using an alternative email address.
 
 ## Links
