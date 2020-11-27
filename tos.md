@@ -10,11 +10,13 @@ Details are provided below, but in general they:
 
 ## Affiliation
 
-Gradebook is not affiliated with, endorsed, or funded by any educational institution or government entity. As such, FERPA regulations do not apply to any data entered on this site. Additionally, by entering data into Gradebook, users agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool and should never be used as an official record of educational information.
+Gradebook is generally not affiliated with, endorsed, or funded by any educational institution or government entity. Depending on your school, your school's Gradebook may be affiliated with your educational institution or organization. In such cases, it will be clearly noted that Gradebook has partnered with your school.
+
+Gradebook does not serve as an offical academic record. As such, FERPA regulations do not apply to any data entered on this site. Additionally, by entering data into Gradebook, you agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool and should never be used as an official record of educational information.
 
 ## Privacy
 
-As a user of Gradebook, you have the right to expect us to keep your information private. Our promise to you is that we will never sell or give access to your information. We will continue to use best practice techniques to keep your data secure. These include but are not limited to HTTPS encryption, Google authentication, and a protected API for communicating between your browser and our database.
+As a user of Gradebook, you have the right to expect us to keep your information private. Our promise to you is that we will never sell or give access to your information. We will continue to use best practice techniques to keep your data secure. These include but are not limited to HTTPS encryption, Google authentication, and a protected API for communicating between your browser and our database. Please read our <a href="/privacy-policy">Privacy Policy</a> for more details.
 
 ## Risk
 
