@@ -22,7 +22,7 @@ Our ads keep Gradebook free for you to use. We work directly with local advertis
 
 ## How does my school use my data?
 
-If your school is a Gradebook partner, they will be able to see anonymized statistics for your school. Your schools' staff (e.g. academic advisors) can request access to see your grades, but you will have to explicitly grant it.
+If your school or organization is a Gradebook partner, they will be able to see anonymized statistics for your school. Your schools' staff (e.g. academic advisors) can request access to view your account for a limited time period, which you will have to approve.
 
 ## How do I delete my data?
 

@@ -10,9 +10,9 @@ Details are provided below, but in general they:
 
 ## Affiliation
 
-Gradebook is generally not affiliated with, endorsed, or funded by any educational institution or government entity. Depending on your school, your school's Gradebook may be affiliated with your educational institution or organization. In such cases, it will be clearly noted that Gradebook has partnered with your school.
+Your Gradebook account is always associated with a school or organization. To remain free, Gradebook has partnerships with some of these organizations. We will generally denote if your account is linked to a partnership, but if you have any concerns, you can always contact us.
 
-Gradebook does not serve as an offical academic record. As such, FERPA regulations do not apply to any data entered on this site. Additionally, by entering data into Gradebook, you agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool and should never be used as an official record of educational information.
+Gradebook does not serve as an offical academic record. As such, data submitted to Gradebook is not bound by FERPA regulations. Additionally, by entering data into Gradebook, you agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool, and should never be used as an official record of educational information.
 
 ## Privacy
 
