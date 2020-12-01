@@ -20,6 +20,10 @@ Absolutely nothing.
 
 Our ads keep Gradebook free for you to use. We work directly with local advertisers to ensure relevant advertising for you. These ads are randomly shown and no personal or activity information is used to determine which ads to show.
 
+## How does my school use my data?
+
+If your school or organization is a Gradebook partner, they will be able to see anonymized statistics for your school. Your schools' staff (e.g. academic advisors) can request access to view your account for a limited time period, which you will have to approve.
+
 ## How do I delete my data?
 
 You can delete your account from our system at anytime under your account settings. This truly deletes your data from our system. All your data, including your semesters, classes, and grades will be deleted and is unrecoverable!

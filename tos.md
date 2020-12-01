@@ -10,11 +10,13 @@ Details are provided below, but in general they:
 
 ## Affiliation
 
-Gradebook is not affiliated with, endorsed, or funded by any educational institution or government entity. As such, FERPA regulations do not apply to any data entered on this site. Additionally, by entering data into Gradebook, users agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool and should never be used as an official record of educational information.
+Your Gradebook account is always associated with a school or organization. To remain free, Gradebook has partnerships with some of these organizations. We will generally denote if your account is linked to a partnership, but if you have any concerns, you can always contact us.
+
+Gradebook does not serve as an offical academic record. As such, data submitted to Gradebook is not bound by FERPA regulations. Additionally, by entering data into Gradebook, you agree that these data are NOT official education records of the user or another party. Gradebook should solely be used as a “What-If” analysis tool, and should never be used as an official record of educational information.
 
 ## Privacy
 
-As a user of Gradebook, you have the right to expect us to keep your information private. Our promise to you is that we will never sell or give access to your information. We will continue to use best practice techniques to keep your data secure. These include but are not limited to HTTPS encryption, Google authentication, and a protected API for communicating between your browser and our database.
+As a user of Gradebook, you have the right to expect us to keep your information private. Our promise to you is that we will never sell or give access to your information. We will continue to use best practice techniques to keep your data secure. These include but are not limited to HTTPS encryption, Google authentication, and a protected API for communicating between your browser and our database. Please read our <a href="/privacy-policy">Privacy Policy</a> for more details.
 
 ## Risk
 
@@ -32,7 +34,7 @@ Permission is granted to use the services and functionality on Gradebook's websi
 
 - transfer the materials to another person or "mirror" the materials on any other server;
 
-- attempt to overload (DDos), gain unauthorized access, or otherwise abuse the service.
+- attempt to overload (DDoS), gain unauthorized access, or otherwise abuse the service.
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by Gradebook at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any proprietary materials in your possession regardless of format.
 
@@ -41,13 +43,13 @@ This license shall automatically terminate if you violate any of these restricti
 Gradebook reserves the right to terminate your account under certain conditions, including but not limited to:
 
  - Account inactivity (though you will be given reasonable notice)
- 
+
  - Abuse
- 
+
  - Requesting account deletion through the Account page of the Application
- 
+
  - Requesting account deletion via email
- 
+
 Most of the time, you will be able to create a new account with the same email address. We reserve the right to blacklist your account if deemed necessary. Blacklisted users should not attempt to bypass restrictions by using an alternative email address.
 
 ## Links
