@@ -2,11 +2,11 @@
 
 We take data security seriously at Gradebook. By creating an account with us, we create an implicit agreement with you. We agree to keep your data safe, and you agree to use our service in a reasonable manner.
 
-If you feel this page does not include enough documentation, please <!--[create an issue](https://github.com/gradebook/legal) or -->[send us an email](mailto:aggiegradebook@gmail.com?subject=Gradebook%20Security%20Policy%20Feedback).
+If you feel this page does not include enough documentation, please <!--[create an issue](https://github.com/gradebook/legal) or -->[send us an email](mailto:contact@gradebook.app?subject=Gradebook%20Security%20Policy%20Feedback).
 
 ## Reporting a vulnerability
 
-If you find a security vulnerability in any of our products, we encourage you to report it. We follow the general guidelines for responsible disclosure. You can shoot us an email, contact@gradebook.app, but we prefer using Keybase, an encrypted communication service. You can find us [@gradebook](https://keybase.io/gradebook) and either use the PGP key listed there to encrypt your message, or use Keybase chat.
+If you find a security vulnerability in any of our products, we encourage you to report it. We follow the general guidelines for responsible disclosure. You can shoot us an email, security@gradebook.app, but we prefer using Keybase, an encrypted communication service. You can find us [@gradebook](https://keybase.io/gradebook) and either use the PGP key listed there to encrypt your message, or use Keybase chat.
 
 In your communication, please include details including:
  - Proof of concept
